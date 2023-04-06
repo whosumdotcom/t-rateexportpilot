@@ -1,0 +1,39 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T00:22:38Z",
+  "IdClaims": [
+    {
+      "Claim": "t:rateexportpilot"
+    },
+    {
+      "Claim": "mdon:@rateexportpilot@infosec.exchange"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "2639ee2569096b5551d338b8",
+    "Timestamp": "2023-04-06T00:27:19Z",
+    "Signature": "4f32dcfea23a98731bf2bf6f8c384a0b059e88420d40d33cbfb0f2b61dc9b1fd0f99a32347c9de75de97944426a9e1cc71871f7db3c9255dee8479f139189ce9898ae5a17995bd8b20c363e997f2e462db87064725a56633afe509835b7366645d833c76c57c7606486dce373abf9a41cb53cf675a790e0213f1b086aeb2a786be251cbb07e7f7e45462f4144808eb8f0f368ddb47ccb0493123b171087ec5de9aa0c935a99271c940ba21fe329d624d61de0f3d8ce254cf86d73bb99a48f047223e411124e86a4365a791a03c22e3f36ea61dd9a23360f37ac5990226b6c8e7d84b119a749038b31132b4d67e8ed772dc29333ace868882931412edd25b3a81"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "3628f15135cab066854a968fc93b543a9e51cc1871fa5fe637321082682773e8",
+  "ContentToHash": "v1|mdon:@rateexportpilot@infosec.exchange,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:rateexportpilot|2023-04-06T00:22:38Z"
+}
